@@ -1,7 +1,20 @@
-for (let index = 0; index <= 30; index += 5) {
-  console.log(index);
-}
+$(document).ready(function() {
+  $("#word-form").submit(function(event) {
+    event.preventDefault();
 
-for (let index = 0; index < 50; index += 7) {
-  console.log(index);
-}
+    let inputSentence = $("input#sentence").val();
+    const inputWords = inputSentence.split(" ");
+
+    function sansVowels(inputWords) {
+      let sentenceWithoutVowels = []
+      const vowels = ["a", "e", "i", "o", "u", "A", "E", "I", "O", "U"];
+      for(index = 0; index < inputWords.length; index += 1) {
+        if (vowels.index(string[index])<0){
+          sentenceWithoutVowels.push(string[index])
+        }
+      }
+    }
+console.log();
+    
+  });
+});
