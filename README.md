@@ -1,17 +1,17 @@
-# _count-up-by_
+# _word-puzzle_
 
-#### _. 6/5/2020_
+#### _This program is used to practice for loops. We take input from the user and remove all vowels from the string then display the results to the user. 6/9/2020_
 
 #### By _**David Cole & Noel Kirkland**_
 
 ## Description
 
-_This project has been designed using HTML, CSS, Bootstrap v3.3.7._
+_This project has been designed using HTML, CSS, Bootstrap v3.3.7. It's purpose is to explore the uses of for loop to process strings. _
 
 ## Setup/Installation Requirements
 
-* _In your web browser, navigate to [dcole505 count-up-by repository](https://github.com/dcole505/count-up-by)_
-* _In terminal, type '$ git clone https://github.com/dcole505/count-up-by.git' To clone the project from GitHub onto your local machine_
+* _In your web browser, navigate to [dcole505 word-puzzle repository](https://github.com/dcole505/word-puzzle)_
+* _In terminal, type '$ git clone https://github.com/dcole505/word-puzzle' To clone the project from GitHub onto your local machine_
 * _Navigate to the file folder that contains the GitHub repository you've cloned._
 * _Right click on the .HTML file and open it in your web browser to view_
 * _or_
